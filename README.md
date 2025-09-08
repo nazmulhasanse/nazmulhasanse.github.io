@@ -1,6 +1,5 @@
 #Job_Card
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Job Card Report - Versioned</title>
