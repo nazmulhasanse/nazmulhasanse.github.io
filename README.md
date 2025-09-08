@@ -8,8 +8,8 @@
     body { font-family: Arial, sans-serif; font-size: 12px; }
     .report-box { border: 1px solid #000; padding: 10px; margin-bottom: 40px; }
     .header { text-align: center; font-weight: bold; }
-    .middle-table { border-collapse: collapse; width: 100%; margin-top: 10px; border: 1px solid black; }
-    .middle-table td, .middle-table th { padding: 5px; text-align: center; border: 1px solid black; white-space: nowrap; }
+    .middle-table { border-collapse: collapse; width: 100%; margin-top: 10px; border: 1px solid black; white-space: nowrap;}
+    .middle-table td, .middle-table th { padding: 5px; text-align: center; border: 1px solid black; white-space: nowrap;}
     .header-table{ border-collapse:collapse;width:100%;margin-top:10px;border:none;} 
     .header-table td,.header-table th { padding:5px;text-align:left;border:none;}
     .summary { margin-top: 10px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
